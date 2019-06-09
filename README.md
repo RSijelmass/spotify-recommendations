@@ -11,7 +11,7 @@ pip install numpy pandas spotipy matplotlib
 ```
 
 
-### Scopes
+### Scopes
 Scopes are Spotify's way of ensuring third parties only get to see the
 information you open up to them. If you want to alter any of them, a list can
 be found
